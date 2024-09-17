@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hanzla
 - 👀 I’m interested in Full stack development and Artificial intelligence
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Mern Stack 
 - 💞️ I’m looking to collaborate on Diff Open source projects
 - 📫 How to reach me email at hanzlaasam@gmail.com
 - 😄 Pronouns: He/Him
